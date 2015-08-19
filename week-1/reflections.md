@@ -22,7 +22,9 @@ I think cd, mkdir, and rmdir are important commands to know because you are able
 - rmdir – removes a directory 
 - rm – removes a specific file
 - help – use this command to access help for specific commands
+
 ## 1.4 Forking and Cloning 
+a pull test* 
 For this assignment, I learned how to create a repository through GitHub, fork a repository, and clone a repository from GitHub to my computer. Overall, I believed the process was pretty simple because the instructions were clear and GitHub made it user-friendly.
 
 If I were instructing someone to create a repo, I would tell them to login to their GitHub account, and locate the + button in their upper right hand corner that is on the left of their account picture or avatar. Click the “+” button, and click “New repository.” After clicking, it should bring you to a new repository page. Name your repository, make it public or private, and choose if you want to add a license based on your needs.

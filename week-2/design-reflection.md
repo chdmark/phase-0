@@ -1,6 +1,6 @@
 ## Site Map Reflection
 
-![Alt text](home/chdmark/phase-0/phase-0/week-2/imgs/site-map.jpg "Site Map")
+![Alt text](imgs/site-map.jpg "Site Map")
 
 - What are the 6 Phases of Web Design?
 - What is your site's primary goal or purpose? What kind of content will your site feature?

@@ -1,7 +1,7 @@
 ## Wireframing Reflection
 
-![Alt text](chdmark.github.io/wireframe-index.png "Wireframe Index")
-![Alt text](chdmark.github.io/wireframe-blog-index.png "Wireframe Blog Index")
+![Alt text](wireframe-index.png "Wireframe Index")
+![Alt text](wireframe-blog-index.png "Wireframe Blog Index")
 
 - What is a wireframe?
 - What are the benefits of wireframing?

@@ -58,3 +58,38 @@ span.small-description {
 	background-color: gray;
 }
 
+/*What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+What CSS did you use to modify the element style (like size, color, etc.)
+
+Did you modify the HTML to include classes or ids? If so, which did you chose and why? 
+If you didn't, how would you know which one to add to your HTML?
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+There are three important aspects when linking an external file to an HTML file. You need to specify 
+the path where the css stylesheet is located. The syntax for linking the css file to the href page is
+<link rel="stylesheet" type="text/css" href="stylesheet.css" Rel tells the relationship between the 
+HTML page and the file it is linked to. Type specifies the type of file which is CSS. The href is the
+directory in which the CSS file is located in. 
+
+This was by far the hardest part of the challenge. It was difficult getting the elements in the 
+positions we wanted to. We tried splitting the <ul> and positioning them outside and inside to no 
+avail. We eventually resorted to googling a method to divide lists. We were able to use text-align
+to center the text in the header and footer.
+
+We used font-size to modify the size, color to modify the colors, font-weight to make the font bold,
+and text-align to move the text around. 
+
+We modified the HTML to use classes because they were broader. Through further research, it was 
+recommended that we use classes becuase ids are too narrow. You can apply classes to many more different
+parts of HTML elements. With ids, you can only use that rule once. You can apply ids to unordered lists
+that have a specific rule that you would'nt use anywhere else. 
+
+Our code was much cleaner in my opinion. They styled everything through HTML and did not use CSS at all.
+From our studies, we were taught that it was bad practice to style with HTML and they did exactly that.
+It was difficult to make our site look exactly like Berkshire's page because they used HTML. It was interesting
+how they used tables to divide their unordered lists, which looked really awkward.  
+*/

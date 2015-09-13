@@ -1,6 +1,6 @@
 # Count Between
 
-# I worked on this challenge [by myself, with: ].
+# I worked on this challenge by myself. 
 
 # count_between is a method with three arguments:
 #   1. An array of integers
@@ -27,4 +27,4 @@ def count_between(list_of_integers, lower_bound, upper_bound)
 end
 
 # I could not get past this point. I wanted to include the range in my problem and somehow check
-#for the numbers in between the range. 
+#for the numbers in between the range. The error told me it should count above the upper bound and below the lower bound.

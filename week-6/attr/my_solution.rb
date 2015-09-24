@@ -95,5 +95,5 @@ well because you don't want to overwrite something that isn't supposed to be ove
 I believe I understand these methods. The only thing that is somewhat confusing to me is passing information
 between classes. Wtih practice, I am sure I will get better at it. 
 
-The writer method
+
 =end
